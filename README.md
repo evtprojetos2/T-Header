@@ -1,7 +1,7 @@
 # T-Header script
 Este script Bash contém Oh-My-Zsh With, sugestão automática de comando, plug-ins de realce de sintaxe e cabeçalho de terminal com nome próprio para TERMUX. 
 ## Visualização após a conclusão da configuração..
-<img src="[https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg](https://github.com/evtprojetos2/codigo/blob/main/Screenshot_2024-05-20-16-12-59-733_com.termux.jpg)" width="200" hight="220">
+<img src="https://github.com/evtprojetos2/codigo/blob/main/Screenshot_2024-05-20-16-12-59-733_com.termux.jpg" width="200" hight="220">
 
 ## Este script contém recursos populares
 
