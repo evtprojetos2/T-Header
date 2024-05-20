@@ -216,7 +216,7 @@ exit
 }
 
 clear;
-echo -e "\033[31m$(figlet -f Remo773 "Evt-Dev")\e[0m"
+echo -e "\033[31m$(figlet -f Evtpro773 "Evt-Dev")\e[0m"
 echo -e "\e[1;32m
 +----------------------------------*/
 Evtprojetos: (\e[33m14.4.2021\e[32m)
