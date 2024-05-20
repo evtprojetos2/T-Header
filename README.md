@@ -21,7 +21,7 @@ Este script Bash contém Oh-My-Zsh With, sugestão automática de comando, plug-
 - [x] other shortcuts need video guide.
 
 ## Etapas de download e instalação
-<img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" hight="220">
+<img src="https://github.com/evtprojetos2/codigo/blob/main/Screenshot_2024-05-20-16-31-10-198_com.termux.jpg" width="200" hight="220">
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
